@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e79c6c8-8efe-4d8e-ad3f-0c537c426c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NhapMonLapTrinhCanBan/BaiTap/codeorg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Git &amp; HTML/SuDungHTMLcoban.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Git &amp; HTML/Tạo danh sách.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Git &amp; HTML/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1eJQoFdgNWj38sfwOCyPOjOMwqW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,8 +30,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,6 +54,8 @@
       <workItem from="1594037650164" duration="15000" />
       <workItem from="1594037685123" duration="673000" />
       <workItem from="1594093615222" duration="2000" />
+      <workItem from="1594621336103" duration="1322000" />
+      <workItem from="1594642936311" duration="1399000" />
     </task>
     <servers />
   </component>
