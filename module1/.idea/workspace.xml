@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e79c6c8-8efe-4d8e-ad3f-0c537c426c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4. Git &amp; HTML/SuDungHTMLcoban.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Git &amp; HTML/Tạo danh sách.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Git &amp; HTML/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7e79c6c8-8efe-4d8e-ad3f-0c537c426c93" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,11 +50,17 @@
       <workItem from="1594037685123" duration="673000" />
       <workItem from="1594093615222" duration="2000" />
       <workItem from="1594621336103" duration="1322000" />
-      <workItem from="1594642936311" duration="1399000" />
+      <workItem from="1594642936311" duration="2003000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1594645088521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1594645088521" />
   </component>
 </project>
