@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e79c6c8-8efe-4d8e-ad3f-0c537c426c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4. Git &amp; HTML/Bài Tập/CVCaNhan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ 5. HTML Form &amp; Table/Thực hành/TaoFormCoBan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ 5. HTML Form &amp; Table/Thực hành/TaoFormTimKiemGoogle.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +56,7 @@
       <workItem from="1594621336103" duration="1322000" />
       <workItem from="1594642936311" duration="7166000" />
       <workItem from="1594786342651" duration="3059000" />
+      <workItem from="1594815008462" duration="2653000" />
     </task>
     <servers />
   </component>
@@ -66,5 +68,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1594645088521" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1594816428037">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1594816428037" />
   </component>
 </project>
