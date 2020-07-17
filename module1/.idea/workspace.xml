@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e79c6c8-8efe-4d8e-ad3f-0c537c426c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ 5. HTML Form &amp; Table/Bài tập/TaoFormDangKyHocVien.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ 5. HTML Form &amp; Table/Bài tập/TaoFormDonGian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ 5. HTML Form &amp; Table/Bài tập/TaoFormLaySurveyKhachHang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ 5. HTML Form &amp; Table/Bài tập/TaoGiaoDienFormDangKyNguoiDung.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ 5. HTML Form &amp; Table/Bài tập/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ 5. HTML Form &amp; Table/Bài tập/ThoiKhoaBieu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ 5. HTML Form &amp; Table/Thực hành/TaoBangCoBan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ 5. HTML Form &amp; Table/Thực hành/TaoBangNangCao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ 5. HTML Form &amp; Table/Thực hành/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -35,6 +35,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,7 +61,7 @@
       <workItem from="1594642936311" duration="7166000" />
       <workItem from="1594786342651" duration="3059000" />
       <workItem from="1594815008462" duration="6032000" />
-      <workItem from="1594982483918" duration="4124000" />
+      <workItem from="1594982483918" duration="6824000" />
     </task>
     <servers />
   </component>
